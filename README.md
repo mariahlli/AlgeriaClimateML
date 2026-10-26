@@ -28,9 +28,6 @@ dataminingproject/
 ## Setup
 
 ```bash
-# Activate virtual environment
-source venv/bin/activate
-
 # Install dependencies (already done)
 pip install -r requirements.txt
 ```
