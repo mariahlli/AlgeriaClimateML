@@ -28,7 +28,7 @@ dataminingproject/
 ## Setup
 
 ```bash
-# Install dependencies (already done)
+# Install dependencies 
 pip install -r requirements.txt
 ```
 
