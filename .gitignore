@@ -1,0 +1,4 @@
+.cdsapirc
+.DS_Store
+venv/
+data/
