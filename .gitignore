@@ -2,3 +2,5 @@
 .DS_Store
 venv/
 data/
+/notebooks/Step1backup.ipynb
+scratch/
